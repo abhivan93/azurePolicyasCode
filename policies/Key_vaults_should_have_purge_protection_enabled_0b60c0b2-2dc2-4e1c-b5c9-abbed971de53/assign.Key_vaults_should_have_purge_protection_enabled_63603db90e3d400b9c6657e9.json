@@ -1,0 +1,25 @@
+{
+ "sku": {
+  "name": "A0",
+  "tier": "Free"
+ },
+ "properties": {
+  "displayName": "Key vaults should have purge protection enabled",
+  "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0b60c0b2-2dc2-4e1c-b5c9-abbed971de53",
+  "scope": "/subscriptions/f0705ff9-a36b-4f34-80fa-00d0d9e2743b",
+  "notScopes": [],
+  "parameters": {},
+  "metadata": {
+   "assignedBy": "Ajay Gaddam",
+   "parameterScopes": {},
+   "createdBy": "b73aa690-85fb-4751-bbc7-671f814dc56b",
+   "createdOn": "2022-12-19T19:44:59.9681071Z",
+   "updatedBy": null,
+   "updatedOn": null
+  },
+  "enforcementMode": "Default"
+ },
+ "id": "/subscriptions/f0705ff9-a36b-4f34-80fa-00d0d9e2743b/providers/Microsoft.Authorization/policyAssignments/63603db90e3d400b9c6657e9",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "63603db90e3d400b9c6657e9"
+}
